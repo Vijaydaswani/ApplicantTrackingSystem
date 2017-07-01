@@ -1,0 +1,2 @@
+# ApplicantTrackingSystem
+Our project is a Applicant Tracking System which is a desktop application developed using java programming Language. It is a CRUD application for a staffing company in which we are currently working, It is developed for managing their database in an appropriate manner and generating a report. This Application enables the electronic handling of recruitment needs. It is an application for an enterprise or small business level, depending on the needs of the company.
